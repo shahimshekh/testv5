@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['+32460230680'] //ur owner number
+global.vcardowner = ['+966543954724'] //ur owner number
 global.ownername ="🖤" //ur owner name
 global.ytname = "YT: dc hacker Ayush" //ur yt chanel name
 global.socialm = "GitHub:ayushpandey9542" //ur github or insta name
 global.location = "India" //ur location
 
 //bot bomdy 
-global.owner = ['+32460230680']
-global.ownertag = '+32460230680' //ur tag number
-global.botname = 'SANJU BHAI ' //ur bot name
+global.owner = ['+966543954724']
+global.ownertag = '+966543954724' //ur tag number
+global.botname = '❣️S⃠ɑ╠╣Iᗰ❥⃢⃢🤍✨●┼●' //ur bot name
 global.linkz = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/results?search_query=dc+hacker+ayush" //ur website to be displayed
 global.botscript = 'https://www.youtube.com/results?search_query=dc+hacker+ayush' //script link
 global.reactmoji ="🖤" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "SANJU BHAI " //ur sticker watermark packname
-global.author = "+32460230680" //ur sticker watermark author
+global.packname = "❣️S⃠ɑ╠╣Iᗰ❥⃢⃢🤍✨●┼● " //ur sticker watermark packname
+global.author = "+966543954724" //ur sticker watermark author
 global.wm = "Cheems Bot-MD Presents"
 
 //Bot theme media
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['+32460230680'] //ur premium numbers
+global.premium = ['+966543954724'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
